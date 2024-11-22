@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\PB-503-OOPTask\PB-503-OOPTask\bin\Debug\net6.0\PB-503-OOPTask.exe
+C:\Users\ASUS\source\repos\PB-503-OOPTask\PB-503-OOPTask\bin\Debug\net6.0\PB-503-OOPTask.deps.json
+C:\Users\ASUS\source\repos\PB-503-OOPTask\PB-503-OOPTask\bin\Debug\net6.0\PB-503-OOPTask.runtimeconfig.json
+C:\Users\ASUS\source\repos\PB-503-OOPTask\PB-503-OOPTask\bin\Debug\net6.0\PB-503-OOPTask.dll
+C:\Users\ASUS\source\repos\PB-503-OOPTask\PB-503-OOPTask\bin\Debug\net6.0\PB-503-OOPTask.pdb
+C:\Users\ASUS\source\repos\PB-503-OOPTask\PB-503-OOPTask\obj\Debug\net6.0\PB-503-OOPTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\PB-503-OOPTask\PB-503-OOPTask\obj\Debug\net6.0\PB-503-OOPTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\PB-503-OOPTask\PB-503-OOPTask\obj\Debug\net6.0\PB-503-OOPTask.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\PB-503-OOPTask\PB-503-OOPTask\obj\Debug\net6.0\PB-503-OOPTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PB-503-OOPTask\PB-503-OOPTask\obj\Debug\net6.0\PB-503-OOPTask.dll
+C:\Users\ASUS\source\repos\PB-503-OOPTask\PB-503-OOPTask\obj\Debug\net6.0\refint\PB-503-OOPTask.dll
+C:\Users\ASUS\source\repos\PB-503-OOPTask\PB-503-OOPTask\obj\Debug\net6.0\PB-503-OOPTask.pdb
+C:\Users\ASUS\source\repos\PB-503-OOPTask\PB-503-OOPTask\obj\Debug\net6.0\PB-503-OOPTask.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\PB-503-OOPTask\PB-503-OOPTask\obj\Debug\net6.0\ref\PB-503-OOPTask.dll
